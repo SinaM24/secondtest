@@ -1,2 +1,2 @@
-this is first line of text
-this is 2nd line
+Hello World!
+2nd version
