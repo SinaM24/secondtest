@@ -1,2 +1,2 @@
 this is note2 file:
-this is version 6.5
+this is version 8.0
