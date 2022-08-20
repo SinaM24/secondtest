@@ -1,2 +1,3 @@
 this is note2 file:
+<<<<<<< HEAD
 this is version 6.5
