@@ -1,3 +1,5 @@
 this is #special note2 file:
 this is version 8.0
 the end
+last line
+2nd last line
