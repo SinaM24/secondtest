@@ -1,2 +1,3 @@
-this is note2 file:
+this is #special note2 file:
 this is version 6.5
+the end
